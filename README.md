@@ -1,12 +1,14 @@
 ## Olá eu sou Larissa de Guimaraes Gomes
 
 Eu ainda estou terminando meu curso de informatica
+
 <div>
   <a href="https://beacons.ai/larissaggomes">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=larissaggomes&show_icons=true&theme=dracula&include_all_commits=true">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaggomes&show_icons=true&theme=dracula&layout=compact">
 </div>
-
+    
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
