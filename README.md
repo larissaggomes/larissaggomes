@@ -28,5 +28,4 @@ Eu ainda estou terminando meu curso de informatica
 * Jogo da memória - https://larissaggomes.github.io/jogo_memoria/pages/index.html
 * Site do Mario - https://larissaggomes.github.io/site_mario/
 * Whack a mole - https://larissaggomes.github.io/whack_mole/
-* API python - https://github.com/larissaggomes/API_livro
 * Previsao do tempo - https://larissaggomes.github.io/Previsao_Tempo/index.html
