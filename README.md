@@ -31,5 +31,7 @@ Eu ainda estou terminando meu curso de informatica
 * Previsao do tempo - https://larissaggomes.github.io/Previsao_Tempo/index.html
 * API python - https://github.com/larissaggomes/API_desenhos
 * Analise de dados (Pandas, pySpark) - https://colab.research.google.com/drive/1EZAJicju4knLAqt1KEB4MgWKwPCBgUwE#scrollTo=Er3MujDyXjqu
- / https://colab.research.google.com/drive/10cxaL7VElA8Y8TRgY6icKcMweRiW41Do#scrollTo=02d33997-cc57-4e98-a245-fddd928db9b5
+  
  / https://colab.research.google.com/drive/1xKSL_vjRDbgaArARUeFNxdggiYR2jWgI
+ 
+ / https://colab.research.google.com/drive/1CZ5ddHY0ayA7CobHUl8J8omJwliiZGLu
