@@ -18,7 +18,6 @@ Eu ainda estou terminando meu curso de informatica
   <img align="center" alt="Rafa-NodeJs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=126&color=currentColor">
   <img align="center" alt="Rafa-PostgresSQL" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=126&color=currentColor">
-  <img align="center" alt="Rafa-TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=126&color=currentColor">
   <img align="center" alt="Rafa-VisualStudio" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=126&color=currentColor">
   <img align="center" alt="Rafa-Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=126&color=currentColor">
 </div>
