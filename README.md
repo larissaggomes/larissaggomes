@@ -1,6 +1,6 @@
 ## Olá eu sou Larissa de Guimaraes Gomes
 
-Eu ainda estou terminando meu curso de informatica
+Eu ainda estou terminando meu curso de tecnico em informatica
 
 <div>
   <a href="https://beacons.ai/larissaggomes">
